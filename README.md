@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm Franklin <br><br>
-🎓 **Year 3 Dual Degree Student** in **Technology and Management** (HKUST), majoring in **Computer Science** and **Finance**, with an extended major in **Artificial Intelligence**.  <br>💻 Passionate about **software development**, **data analysis**, and **machine learning**.  <br>🌐 Experienced in **full-stack development** and building scalable APIs.
+🎓 **Year 4 Dual Degree Student** in **Technology and Management** (HKUST), majoring in **Computer Science** and **Finance**, with an extended major in **Artificial Intelligence**.  <br>💻 Passionate about **software development**, **data analysis**, and **machine learning**.  <br>🌐 Experienced in **full-stack development** and building scalable APIs.
 
 ---
 
