@@ -40,7 +40,7 @@
 ---
 
 ### 📫 **Let's Connect!**<br>
-- LinkedIn: [Franlin Cheung](https://www.linkedin.com/in/yourprofile)  <br>
+- LinkedIn: [Franlin Cheung](https://www.linkedin.com/in/franklin-cheung/)  <br>
 - Email: [franklin123ann@gmail.com](mailto:franklin123ann@gmail.com)  <br>
 
 
